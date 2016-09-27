@@ -1,0 +1,63 @@
+2 Jul 2016 3pm 	Laois 	1-11 - 1-10 	Armagh 	O'Moore Park
+19 Jun 2016 2pm 	Leitrim 	0-12 - 0-08 	Waterford 	Páirc Sean Mac Diarmada
+18 Jun 2016 7pm 	Carlow 	1-17 - 1-12 	Wicklow 	Dr Cullen Park
+18 Jun 2016 5pm 	Derry 	1-18 - 2-10 	Louth 	Owenbeg
+25 Jun 2016 5pm 	Wexford 	1-11 - 0-19 	Fermanagh 	Wexford Park
+25 Jun 2016 2pm 	Down 	3-17 - 2-24 	Longford 	Pairc Esler
+25 Jun 2016 2pm 	Offaly 	0-17 - 1-07 	London 	O'Connor Park, Tullamore
+25 Jun 2016 2pm 	Antrim 	0-09 - 2-06 	Limerick 	Corrigan Park, Belfast
+10 Jul 2016 2pm 	Clare 	0-14 - 1-10 	Laois 	Cusack Park, Ennis
+9 Jul 2016 5pm 	Cavan 	2-13 - 0-12 	Carlow 	3G pitch Kingspan Breffni Park
+9 Jul 2016 2:30pm 	Derry 	1-14 - 1-11 	Meath 	Owenbeg
+2 Jul 2016 6pm 	Sligo 	2-15 - 0-10 	Leitrim 	Markievicz Park
+9 Jul 2016 6:30pm 	Monaghan 	1-13 - 2-13 	Longford 	Clones
+9 Jul 2016 6:30pm 	Kildare 	1-22 - 2-14 	Offaly 	St Conleth's Park
+9 Jul 2016 3:30pm 	Mayo 	2-14 - 1-12 	Fermanagh 	McHale Park
+9 Jul 2016 3pm 	Cork 	2-12 - 0-10 	Limerick 	Semple Stadium
+16 Jul 2016 3:30pm 	Cavan 	0-18 - 1-17 	Derry 	Kingspan Breffni Park
+16 Jul 2016 2pm 	Sligo 	1-13 - 2-17 	Clare 	Markievicz Park
+16 Jul 2016 7pm 	Mayo 	2-17 - 0-14 	Kildare 	Elverys McHale Park
+16 Jul 2016 3pm 	Longford 	1-06 - 2-09 	Cork 	Pearse Park, Longford
+23 Jul 2016 5pm 	Derry 	2-17 - 1-21 	Tipperary 	Kingspan Breffni Park
+23 Jul 2016 3pm 	Clare 	2-12 - 1-09 	Roscommon 	Pearse Stadium, Galway
+30 Jul 2016 6pm 	Mayo 	3-15 - 1-14 	Westmeath 	Croke Park
+30 Jul 2016 4pm 	Donegal 	0-21 - 1-15 	Cork 	Croke Park
+#Leinster 
+17 Jul 2016 4pm 	Dublin 	2-19 - 0-10 	Westmeath 	Croke Park
+15 May 2016 3:30pm 	Offaly 	2-21 - 2-13 	Longford 	O'Connor Park, Tullamore
+14 May 2016 7pm 	Laois 	3-16 - 0-18 	Wicklow 	O'Moore Park
+14 May 2016 5pm 	Carlow 	3-11 - 2-24 	Louth 	O'Moore Park
+12 Jun 2016 3:30pm 	Westmeath 	0-13 - 0-12 	Offaly 	Cusack Park, Mullingar
+12 Jun 2016 3:30pm 	Louth 	1-13 - 0-20 	Meath 	Parnell Park
+4 Jun 2016 7pm 	Laois 	2-10 - 2-21 	Dublin 	Nowlan Park
+21 May 2016 5:15pm 	Wexford 	0-08 - 0-09 	Kildare 	Croke Park
+26 Jun 2016 6:35pm 	Dublin 	0-21 - 0-11 	Meath 	Croke Park
+26 Jun 2014 4:30pm 	Kildare 	1-11 - 1-12 	Westmeath 	Croke Park
+#Ulster
+17 Jul 2016 2pm 	Tyrone 	0-13 - 0-11 	Donegal 	Clones
+15 May 2016 4pm 	Fermanagh 	1-12 - 0-09 	Antrim 	Brewster Park
+12 Jun 2016 2pm 	Donegal 	2-12 - 0-11 	Fermanagh 	Ballybofey
+5 Jun 2016 2pm 	Monaghan 	2-22 - 0-09 	Down 	Clones
+29 May 2016 3:30pm 	Cavan 	2-16 - 0-14 	Armagh 	Breffni Park
+22 May 2016 2pm 	Derry 	0-11 - 3-14 	Tyrone 	Celtic Park
+3 Jul 2016 4pm 	Tyrone 	5-18 - 2-17 	Cavan 	Breffni Park
+2 Jul 2016 7pm 	Monaghan 	2-10 - 0-17 	Donegal 	Breffni Park
+25 Jun 2016 7pm 	Monaghan 	0-14 - 1-11 	Donegal 	3G pitch Kingspan Breffni Park
+19 Jun 2016 2pm 	Tyrone 	0-16 - 3-07 	Cavan 	Clones
+#Connacht
+17 Jul 2016 2pm 	Tyrone 	0-13 - 0-11 	Donegal 	Clones
+15 May 2016 4pm 	Fermanagh 	1-12 - 0-09 	Antrim 	Brewster Park
+12 Jun 2016 2pm 	Donegal 	2-12 - 0-11 	Fermanagh 	Ballybofey
+5 Jun 2016 2pm 	Monaghan 	2-22 - 0-09 	Down 	Clones
+29 May 2016 3:30pm 	Cavan 	2-16 - 0-14 	Armagh 	Breffni Park
+22 May 2016 2pm 	Derry 	0-11 - 3-14 	Tyrone 	Celtic Park
+3 Jul 2016 4pm 	Tyrone 	5-18 - 2-17 	Cavan 	Breffni Park
+2 Jul 2016 7pm 	Monaghan 	2-10 - 0-17 	Donegal 	Breffni Park
+25 Jun 2016 7pm 	Monaghan 	0-14 - 1-11 	Donegal 	3G pitch Kingspan Breffni Park
+19 Jun 2016 2pm 	Tyrone 	0-16 - 3-07 	Cavan 	Clones
+#Munster
+3 Jul 2016 2pm 	Kerry 	3-17 - 2-10 	Tipperary 	Fitzgerald Stadium
+29 May 2016 3:30pm 	Waterford 	1-07 - 1-15 	Tipperary 	Fraher Field
+29 May 2016 2pm 	Limerick 	0-13 - 0-16 	Clare 	Gae.ic Grounds, Limerick
+12 Jun 2016 3:30pm 	Kerry 	2-23 - 0-17 	Clare 	Fitzgerald Stadium
+12 Jun 2016 3:30pm 	Tipperary 	3-15 - 2-16 	Cork 	Semple Stadium

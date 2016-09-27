@@ -1,0 +1,27 @@
+5 Apr 2015 3pm 	Tyrone 	0-17 - 1-14 	Kerry 	Healy Park
+#5 Apr 2015 3pm 	Monaghan 	1-11 - 1-22 	Dublin 	Clones
+5 Apr 2015 3pm 	Derry 	2-15 - 1-11 	Cork 	Owenbeg
+5 Apr 2015 3pm 	Mayo 	0-12 - 1-09 	Donegal 	McHale Park29 Mar 2015 3pm 	Cork 	2-07 - 0-12 	Mayo 	Pairc Ui Rinn
+29 Mar 2015 3pm 	Kerry 	0-10 - 1-11 	Monaghan 	Austin Stack Park
+29 Mar 2015 3pm 	Donegal 	1-13 - 0-06 	Tyrone 	Ballybofey
+28 Mar 2015 7pm 	Dublin 	0-08 - 0-04 	Derry 	Croke Park
+15 Mar 2015 2:30pm 	Tyrone 	2-10 - 0-17 	Cork 	Healy Park
+15 Mar 2015 2:30pm 	Monaghan 	0-15 - 0-10 	Derry 	Clones
+15 Mar 2015 2pm 	Kerry 	2-13 - 2-11 	Donegal 	Austin Stack Park
+#14 Mar 2015 7pm 	Mayo 	0-10 - 2-18 	Dublin 	McHale Park
+8 Mar 2015 2:30pm 	Donegal 	1-04 - 0-09 	Monaghan 	Letterkenny
+8 Mar 2015 2:30pm 	Derry 	1-13 - 2-12 	Mayo 	Celtic Park
+8 Mar 2015 2pm 	Cork 	3-17 - 2-09 	Kerry 	Páirc Uí Rinn
+7 Mar 2015 7pm 	Dublin 	1-09 - 0-12 	Tyrone 	Croke Park
+1 Mar 2015 2pm 	Mayo 	3-15 - 0-11 	Monaghan 	McHale Park
+1 Mar 2015 2pm 	Kerry 	0-15 - 1-10 	Dublin 	Fitzgerald Stadium
+1 Mar 2015 2pm 	Donegal 	0-12 - 1-08 	Cork 	Ballyshannon#
+28 Feb 2015 7pm 	Tyrone 	0-11 - 1-08 	Derry 	Healy Park
+8 Feb 2015 2pm 	Derry 	0-13 - 1-17 	Kerry 	Celtic Park
+8 Feb 2015 2pm 	Mayo 	1-07 - 1-11 	Tyrone 	McHale Park
+8 Feb 2015 2pm 	Monaghan 	1-16 - 2-14 	Cork 	Castleblaney
+7 Feb 2015 7pm 	Dublin 	2-10 - 0-11 	Donegal 	Croke Park
+1 Feb 2015 2pm 	Kerry 	0-10 - 2-11 	Mayo 	Fitzgerald Stadium
+1 Feb 2015 2pm 	Cork 	1-15 - 0-16 	Dublin 	Páirc Uí Rinn
+31 Jan 2015 7pm 	Donegal 	1-15 - 0-12 	Derry 	Ballybofey
+31 Jan 2015 7pm 	Tyrone 	0-09 - 1-13 	Monaghan 	Healy Park, Omagh
